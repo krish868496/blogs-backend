@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+# npm debugging logs
+npm-debug.log*
+
+# Mac OSX specific files
+.DS_Store
+
+# MongoDB data directory
+/data/db
